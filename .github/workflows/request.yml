@@ -15,4 +15,4 @@ jobs:
       - uses: actions/checkout@v2
       - uses: actions/setup-python@v5
       - run: python Request.py
-  
+      - run: head datos.json
