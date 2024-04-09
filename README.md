@@ -8,3 +8,6 @@ El input define el archivo a ejecutar
 
 Ejecución remota de flujo desde un comando CURL
 Adición al repo de los scripts para consumo de API
+
+Creación de segundo workflow: leer datos desde una API, guardarlas en un JSON
+Sigue leer json desde otro python.
